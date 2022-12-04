@@ -62,7 +62,7 @@ public class IntArrayFormatter {
         return all;
     }
 
-    /* Hope you all enjoy! This is just a simple project I decided to upload this for use on my other PCs as well as for whoever wants a small formatting class :)*/
+    /* Hope you all enjoy! This is just a simple project I decided to upload for use on my other PCs as well as for whoever wants a small formatting class :)*/
 
 }
 
